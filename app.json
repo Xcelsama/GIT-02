@@ -1,9 +1,9 @@
 {
     "name": "👑EXCEL👑",
-    "description": "QR",
-    "logo": "https://i.imgur.com/mQDfG3w.jpeg",
-    "repository": "https://github.com/Xcelsama/GIT-O2",
-    "keywords": ["whatsappbot],
+    "description": "I am star-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://wa.me/+2347045035241",
+    "logo": "https://telegra.ph/file/e383ef05e1dd535f16edf.jpg",
+    "repository": "https://github.com/Xcelsama/Web-Qr",
+    "keywords": ["whatsappbot", "starMd", "star Md bot", "Star-Md", "starMdWhatsaooBot", "StarWaBot","StarMD","Star Md Whatsapp Bot","multi device"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
@@ -14,19 +14,7 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "
-╭────⬤
-║ *『🤩 WOW YOU CHOSE STAR-MD-V2🤩』*
-║ _You completed first step to deploying Bot._
-╚════════════════════════╝
-╔═════⬤
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *📡Channel:* _https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X_
-║ *👑Owner:* _https://wa.me/2347045035241_
-║ *📝Note :*_⚠️Don't provide your SESSION_ID to_
-║ _anyone otherwise that can access chats_
-╚════════════════════════╝
-📍📍FOR MORE TECH-SUPPORT:-  https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m",
+        "value": "╭────⬤\n║ *『🤩 WOW YOU CHOSE STAR-MD-V2🤩』*\n║ _You completed first step to deploying Bot._\n╚════════════════════════╝\n╔═════⬤\n║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』\n║ *📡Channel:* _https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X_\n║ *👑Owner:* _https://wa.me/2347045035241_\n║ *📝Note :*_⚠️Don't provide your SESSION_ID to_\n║ _anyone otherwise that can access chats_\n╚════════════════════════╝📍📍FOR MORE TECH-SUPPORT:-  https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m",
         "required": false 
       }
     }   
