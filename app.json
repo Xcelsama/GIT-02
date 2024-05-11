@@ -1,9 +1,9 @@
 {
-    "name": "suhail-md",
-    "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
-    "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
-    "repository": "https://github.com/SuhailTechInfo/web-qr",
-    "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+    "name": "👑EXCEL👑",
+    "description": "QR",
+    "logo": "https://i.imgur.com/mQDfG3w.jpeg",
+    "repository": "https://github.com/Xcelsama/GIT-O2",
+    "keywords": ["whatsappbot],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
@@ -14,7 +14,18 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "╔════◇\n║ *『 WAOW YOU CHOOSE SUHAIL-MD 』*\n║ _You complete first step to making Bot._\n╚════════════════════════╝\n╔═════◇\n║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』\n║ *Ytube:* _youtube.com/SuhailTechInfo_\n║ *Owner:* _https://wa.me/923184474176_\n║ *Note :*_Don't provide your SESSION_ID to_\n║ _anyone otherwise that can access chats_\n╚════════════════════════╝",
+        "value": "╭────⬤
+║ *『🤩 WOW YOU CHOSE STAR-MD-V2🤩』*
+║ _You completed first step to deploying Bot._
+╚════════════════════════╝
+╔═════⬤
+║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║ *📡Channel:* _https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X_
+║ *👑Owner:* _https://wa.me/2347045035241_
+║ *📝Note :*_⚠️Don't provide your SESSION_ID to_
+║ _anyone otherwise that can access chats_
+╚════════════════════════╝
+📍📍FOR MORE TECH-SUPPORT:-  https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m",
         "required": false 
       }
     }   
