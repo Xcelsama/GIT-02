@@ -1,8 +1,8 @@
 {
     "name": "👑EXCEL👑",
     "description": "I am star-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://wa.me/+2347045035241",
-    "logo": "https://telegra.ph/file/e383ef05e1dd535f16edf.jpg",
-    "repository": "https://github.com/Xcelsama/Web-Qr",
+    "logo": "https://i.imgur.com/mQDfG3w.jpeg",
+    "repository": "https://github.com/Xcelsama/GIT-02",
     "keywords": ["whatsappbot", "starMd", "star Md bot", "Star-Md", "starMdWhatsaooBot", "StarWaBot","StarMD","Star Md Whatsapp Bot","multi device"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
